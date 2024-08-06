@@ -880,6 +880,13 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Фантастически фиолетовый цвет для кнопки Telegram Channel */
+.button-telegram-channel {
+  background-color: #8A2BE2; /* фиолетовый цвет */
+  color: white; /* цвет текста */
+  border: none; /* убрать границу */
+}
+
 /* Threads */
 .button.button-threads {
   color: #FFFFFF;
